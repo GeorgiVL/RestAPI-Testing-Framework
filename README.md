@@ -15,5 +15,5 @@ Necessary tools:
 - Docker
 - Python
 
-3. Run the test to verify, that the application is working as expected for all scenarios.
+3. Run the tests to verify, that the application is working as expected for all scenarios.
 4. Update the code to make it better.
