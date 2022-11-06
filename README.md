@@ -1,5 +1,5 @@
 # RestAPI-Testing-Framework
-Basic backend testing dockerized framework of application built with FASTapi
+Basic backend testing dockerized framework of an application built with FASTapi
 
 This automation testing backend framework was created mainly due to training purposes.
 Feel free to check it out.
