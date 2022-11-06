@@ -1,0 +1,10 @@
+04-Nov-22 00:23:32 - <LogRecord: root, 20, C:\Users\AsRock\PycharmProjects\BASIC-TESTING-FWM\tests\conftest.py, 10, "login_as_*******()">
+04-Nov-22 00:23:32 - <LogRecord: root, 10, C:\Users\AsRock\PycharmProjects\BASIC-TESTING-FWM\tests\conftest.py, 15, "Login payload: {'username': '*******', 'password': '*******'}">
+04-Nov-22 00:23:32 - Starting new HTTP connection (1): localhost:8080
+04-Nov-22 00:23:33 - http://localhost:8080 "POST /auth/login HTTP/1.1" 200 285
+04-Nov-22 00:23:33 - <LogRecord: root, 20, C:\Users\AsRock\PycharmProjects\BASIC-TESTING-FWM\lib\comments.py, 10, "get_all_comments">
+04-Nov-22 00:23:33 - http://localhost:8080 "GET /comments HTTP/1.1" 307 None
+04-Nov-22 00:23:33 - http://localhost:8080 "GET /comments/ HTTP/1.1" 200 52
+04-Nov-22 00:23:33 - <LogRecord: root, 20, C:\Users\AsRock\PycharmProjects\BASIC-TESTING-FWM\lib\comments.py, 40, "delete_comment">
+04-Nov-22 00:23:33 - http://localhost:8080 "DELETE /comments/22 HTTP/1.1" 200 31
+04-Nov-22 00:23:33 - <LogRecord: root, 10, C:\Users\AsRock\PycharmProjects\BASIC-TESTING-FWM\tests\comments\test_comments.py, 41, "{'detail': 'Deleted comment 22'}">

@@ -1,0 +1,6 @@
+*/.pytest_cache
+venv
+**/__pycache__
+.idea
+Dockerfile
+secrets.ini

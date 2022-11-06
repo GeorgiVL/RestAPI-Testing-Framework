@@ -1,0 +1,5 @@
+06-Nov-22 00:01:13 - <LogRecord: root, 20, C:\Users\AsRock\PycharmProjects\BASIC-TESTING-FWM\lib\auth.py, 10, "login">
+06-Nov-22 00:01:13 - <LogRecord: root, 10, C:\Users\AsRock\PycharmProjects\BASIC-TESTING-FWM\lib\auth.py, 17, "Requested payload: {'username': '*******', 'password': '*******'}">
+06-Nov-22 00:01:13 - Starting new HTTP connection (1): localhost:8080
+06-Nov-22 00:01:13 - http://localhost:8080 "POST /auth/login HTTP/1.1" 200 285
+06-Nov-22 00:01:13 - <LogRecord: root, 10, C:\Users\AsRock\PycharmProjects\BASIC-TESTING-FWM\tests\auth\test_login.py, 7, "{'access_token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhZG1pbiIsInBhc3N3b3JkX2hhc2giOiIkMmIkMTIkQS9vRVBVNU5lc3hjM3ozbXJQcTg5dTM4N3RoMy5wOTRsb2trcFd6NS5Ba0ZTWmtpSFV6SUciLCJyb2xlcyI6ImFkbWluIn0.lc0oKbSZSIqTMSgIGy9uwFG-J4tWJVf4bDGU35eic80', 'token_type': 'Bearer'}">
